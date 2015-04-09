@@ -2,7 +2,7 @@
 -- Plays audio for the various stick positions used in the multiwii / baseflight / cleanflight / etc. firmwares
 -- By Zap Andersson, Sweden
 -- Crazy Tweets: http://twitter.com/MasterZap
--- Crazy Videos: http://youtube.com/ZapAndersson
+-- Crazy Videos: http://youtube.com/user/ZapAndersson/videos
 
 local t_next = 0    -- Earliest time allowed for next run.
 
