@@ -1,4 +1,4 @@
-# Tarnis Stick Position Speaker Script
+# Taranis Stick Position Speaker Script
 
 This is a LUA Script to speak the various stick combinations in MultiWii for the FrSky Taranis family of RC radios
 
